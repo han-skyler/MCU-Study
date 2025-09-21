@@ -1,0 +1,24 @@
+# CubeIDE/Eclipse
+.settings/
+.metadata/
+*.launch
+
+# Build artifacts
+Debug/
+Release/
+*.elf
+*.map
+*.bin
+*.hex
+*.o
+*.d
+*.a
+
+# IDE specific
+.project
+.cproject
+
+# OS/Editor
+*.swp
+*.DS_Store
+Thumbs.db
